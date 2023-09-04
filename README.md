@@ -15,3 +15,10 @@ Please develop a dashboard that we can present to the client at our next meeting
 * What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 * Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to.
 
+# Tools Used
+* Excel - Data Cleaning
+* SQL - Data Analysis
+* PowerBi - Visualization
+
+# Insights
+
