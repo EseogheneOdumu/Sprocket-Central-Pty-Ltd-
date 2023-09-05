@@ -21,4 +21,21 @@ Please develop a dashboard that we can present to the client at our next meeting
 * PowerBi - Visualization
 
 # Insights
+* Majority of our cutomer base are between the ages of 40 - 49.
+* Female Customers have the majority customer base.
+* Car owners and non-owners were equally represented.
+* Solex:  Standard (class: medium) and WeareA2B:  Standard (class: medium) were the best selling brands while Trek Bicycles: Road (Class: Medium) and WeareA2B: Touring (Class: Medium) were the least performing bicycles in sales.
+* The mass customer wealth segment are the most profitable.
+* Higher percentage of our customers live in NSW.
+* There was equal amount of orders online as well as in-person.
+
+ # RECOMMENDATIONS & MARKETING STRATEGIES
+* Sprocket Central Pty Ltd can increase sales of least selling brands by offering discounts or incentives for purchasing least selling brands.
+* Creating bundle packages which includes best selling brands and least selling brands to improve sales of least selling brands.
+* Sprocket Central Pty Ltd can leverage on the quality and popularity of best-selling brands to increase sales.
+* Females being a higher demographic of our customer base a for him and for her package deal can be introduced which also encourages more men to shop bicycles.
+* Sprocket Central Pty Ltd can create targeted marketing campaigns to attract high net worth and affluent customers by highlighting their premium product and features.
+* Sprocket Central Pty Ltd can also create target marketing campaigns for each wealth segments to attract new customers.
+* Sprocket Central Pty Lt can also offer products or services tailored to each gender, such as different bike models with different sizes, colors, and styles to attract customers from both genders
+
 
